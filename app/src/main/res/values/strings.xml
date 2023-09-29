@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Watch</string>
+    <string name="textlogo">Погода</string>
+    <string name="hint_field">Введите ваш город</string>
+    <string name="ButtonMain">Найти</string>
+    <string name="Panel">Menu</string>
+</resources>
